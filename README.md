@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Amasha 👋
 
-<!--
-**amashaE/amashaE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Undergraduate
+📊 Interested in Machine Learning & Data Analytics
+📍 Sri Lanka
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- Pandas
+- NumPy
+- SQL
+- Matplotlib
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Strengthening ML fundamentals
+- Building end-to-end projects
+- Preparing for internships
+
+## 📌 2026 Goals
+- 5 strong portfolio projects
+- 1 deployed ML application
+- Data science internship
+
